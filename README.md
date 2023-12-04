@@ -9,11 +9,11 @@ ___
 
 <a href="https://github.com/Arkady-Moiseev/ospf/blob/main/Vagrantfile">Vagrantfile</a>
 
-<a href="https://github.com/Arkady-Moiseev/ospf/blob/main/ansible.cfg">ansible.cfg</a>
+<a href="https://github.com/Arkady-Moiseev/ospf/blob/main/ansible/ansible.cfg">ansible.cfg</a>
 
 ansible-playbook -i ansible/hosts ansible/<a href="https://github.com/Arkady-Moiseev/ospf/blob/main/ansible/task1.yml">task1.yml</a>
 
-![img_1](https://github.com/Arkady-Moiseev/ospf/blob/main/images/1.png)
+![img_1](https://github.com/Arkady-Moiseev/ospf/blob/main/images/1.PNG)
 
 ![img_2](https://github.com/Arkady-Moiseev/ospf/blob/main/images/2.png)
 
